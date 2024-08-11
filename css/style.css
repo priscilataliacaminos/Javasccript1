@@ -1,0 +1,29 @@
+body {
+  background-image: url(../Multimedia/fondo.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.carrusel {
+  width: 25%;
+}
+
+header {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(24deg, rgb(0, 0, 0) 62%, rgba(255, 0, 0, 0.8887985614) 100%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header nav a {
+  text-decoration: none;
+  color: white;
+}
+
+p {
+  color: white;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */
